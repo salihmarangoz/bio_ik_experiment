@@ -2,6 +2,8 @@
 
 Bio IK experiment with Look at goal + Min/Max distance + Balance Robot + Center Joints.
 
+## Demo
+
 - Modify xarm7's kinematics.yaml for Bio IK like this:
 
   ```
@@ -24,4 +26,9 @@ Bio IK experiment with Look at goal + Min/Max distance + Balance Robot + Center 
   $ rosrun bio_ik_experiment bio_ik_experiment
   ```
 
-  
+
+## Video
+
+https://www.youtube.com/watch?v=RKVN-GoH-l0
+
+[![Watch the video](https://img.youtube.com/vi/RKVN-GoH-l0/maxresdefault.jpg)](https://youtu.be/RKVN-GoH-l0)
